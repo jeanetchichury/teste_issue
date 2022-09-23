@@ -8,4 +8,4 @@ agora fechando a issue com o nome da PR
 
 Vamos testar mudar o stado do story com o commit [start sc-14]
 
-vamos testar fechar uma issue e uma story com o mesmo commit
+vamos testar fechar uma issue e uma story com o mesmo commit.
